@@ -1,0 +1,3 @@
+https://discord.com/api/oauth2/authorize?client_id=921377750315597835&permissions=8&scope=bot - подключение
+https://discord.com/developers/applications - создание бота
+https://discordpy.readthedocs.io/en/stable/index.html - доки

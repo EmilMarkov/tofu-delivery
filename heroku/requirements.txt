@@ -1,0 +1,5 @@
+discord.py==1.7.3
+PyNaCl==1.4.0
+requests==2.26.0
+youtube-dl==2021.12.17
+youtube-search==2.1.0
